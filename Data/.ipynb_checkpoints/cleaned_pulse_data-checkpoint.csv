@@ -1,0 +1,105 @@
+County,FIPS,Value (Dollars),Rank within US (of 3139 counties)
+Tennessee,47000.0,84212,42 of 52
+United States,0.0,96922,nan
+Lake County,47095.0,39522,3127
+Hancock County,47067.0,48165,3092
+Grundy County,47061.0,52772,3029
+Scott County,47151.0,53423,3022
+Cocke County,47029.0,54527,3001
+Hardin County,47071.0,56576,2963
+Fentress County,47049.0,57083,2947
+Jackson County,47087.0,59234,2887
+Lauderdale County,47097.0,59853,2867
+Bledsoe County,47007.0,59891,2866
+Haywood County,47075.0,60900,2826
+Perry County,47135.0,61712,2783
+Clay County,47027.0,61757,2778
+Sequatchie County,47153.0,62179,2754
+Decatur County,47039.0,62181,2753
+Pickett County,47137.0,62788,2731
+Unicoi County,47171.0,63258,2707
+Claiborne County,47025.0,63456,2697
+Carter County,47019.0,63514,2691
+Rhea County,47143.0,63537,2690
+DeKalb County,47041.0,63622,2687
+McNairy County,47109.0,63921,2670
+Warren County,47177.0,64962,2620
+Henry County,47079.0,65316,2604
+Weakley County,47183.0,66024,2572
+Grainger County,47057.0,66264,2565
+Hawkins County,47073.0,66632,2549
+Johnson County,47091.0,66747,2544
+Hickman County,47081.0,67158,2514
+Campbell County,47013.0,67252,2506
+Dyer County,47045.0,67403,2497
+Marion County,47115.0,67433,2496
+Obion County,47131.0,67717,2480
+Lawrence County,47099.0,67842,2476
+Hardeman County,47069.0,67892,2475
+White County,47185.0,68157,2455
+Benton County,47005.0,68196,2451
+Overton County,47133.0,68565,2432
+Chester County,47023.0,68614,2426
+Wayne County,47181.0,68812,2418
+Van Buren County,47175.0,69262,2399
+Cumberland County,47035.0,69744,2375
+Hamblen County,47063.0,70052,2354
+Lewis County,47101.0,70610,2326
+Coffee County,47031.0,70731,2314
+Union County,47173.0,71211,2272
+Gibson County,47053.0,71228,2270
+Greene County,47059.0,71662,2233
+Houston County,47083.0,71667,2232
+Henderson County,47077.0,71775,2223
+Macon County,47111.0,71834,2218
+McMinn County,47107.0,71974,2208
+Meigs County,47121.0,72191,2197
+Bedford County,47003.0,72660,2158
+Carroll County,47017.0,73122,2128
+Cannon County,47015.0,73441,2107
+Monroe County,47123.0,73828,2072
+Crockett County,47033.0,73958,2057
+Morgan County,47129.0,73988,2056
+Putnam County,47141.0,74175,2040
+Sullivan County,47163.0,74563,2020
+Humphreys County,47085.0,75629,1944
+Madison County,47113.0,75841,1928
+Franklin County,47051.0,76785,1852
+Polk County,47139.0,77435,1791
+Jefferson County,47089.0,77799,1765
+Sevier County,47155.0,77896,1754
+Lincoln County,47103.0,78186,1730
+Smith County,47159.0,78868,1676
+Bradley County,47011.0,79394,1633
+Shelby County,47157.0,80849,1538
+Washington County,47179.0,82020,1448
+Stewart County,47161.0,82226,1432
+Giles County,47055.0,82604,1400
+Trousdale County,47169.0,82866,1379
+Anderson County,47001.0,83282,1342
+Moore County,47127.0,83590,1324
+Roane County,47145.0,84015,1289
+Dickson County,47043.0,84186,1279
+Tipton County,47167.0,84489,1256
+Montgomery County,47125.0,86662,1093
+Marshall County,47117.0,88053,1025
+Maury County,47119.0,88563,986
+Blount County,47009.0,90224,894
+Robertson County,47147.0,90630,872
+Loudon County,47105.0,93337,745
+Knox County,47093.0,94921,671
+Cheatham County,47021.0,95330,651
+Hamilton County,47065.0,95586,634
+Davidson County,47037.0,96175,610
+Rutherford County,47149.0,96860,578
+Fayette County,47047.0,101049,444
+Sumner County,47165.0,103326,374
+Wilson County,47189.0,109979,260
+Williamson County,47187.0,153397,28
+Suggested Citation:,,nan,nan
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 1/13/2026. Available from https://hdpulse.nimhd.nih.gov,,nan,nan
+Notes:,,nan,nan
+NA: Data not available [http://hdpulse.nimhd.nih.gov/data/datanotavailable.html] for this combination of geography cancer site age and race/ethnicity.,,nan,nan
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).,,nan,nan
+For more information about Income (Median family income) see the dictionary at http://hdpulse.nimhd.nih.gov/dictionary.php#income.,,nan,nan
+Median Incomes over 250000 have been coded to 250001 by the Census Bureau. [ http://www2.census.gov/acs2012_5yr/summaryfile/ACS_2008-2012_SF_Tech_Doc.pdf ],,nan,nan
