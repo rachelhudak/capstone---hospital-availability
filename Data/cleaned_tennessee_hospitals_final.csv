@@ -1,0 +1,124 @@
+facility_id,facility_name,county,hospital_type,hospital_ownership,emergency_services,county
+440002,JACKSON-MADISON COUNTY GENERAL HOSPITAL,Madison,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Madison
+440003,HIGHPOINT HEALTH-SUMNER WITH ASCENSION SAINT THOMA,Sumner,Acute Care Hospitals,Proprietary,Yes,Sumner
+440006,TRISTAR SKYLINE MEDICAL CENTER,Davidson,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Davidson
+440007,UNITY MEDICAL CENTER,Coffee,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Coffee
+440008,HENDERSON COUNTY COMMUNITY HOSPITAL,Henderson,Acute Care Hospitals,Proprietary,Yes,Henderson
+440009,CUMBERLAND MEDICAL CENTER,Cumberland,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Cumberland
+440011,BLOUNT MEMORIAL HOSPITAL,Blount,Acute Care Hospitals,Government - Local,Yes,Blount
+440012,WELLMONT BRISTOL REGIONAL MEDICAL CENTER,Sullivan,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Sullivan
+440015,"UNIVERSITY HEALTH SYSTEM, INC",Knox,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Knox
+440016,BAPTIST MEMORIAL HOSPITAL - CARROLL COUNTY,Carroll,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Carroll
+440017,WELLMONT HOLSTON VALLEY MEDICAL CENTER,Sullivan,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Sullivan
+440018,SYCAMORE SHOALS HOSPITAL,Carter,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Carter
+440020,SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM PULASKI,Giles,Acute Care Hospitals,Proprietary,Yes,Giles
+440029,WILLIAMSON MEDICAL CENTER,Williamson,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Williamson
+440030,MORRISTOWN HAMBLEN HOSPITAL ASSOCIATION,Hamblen,Acute Care Hospitals,Government - Local,Yes,Hamblen
+440031,ROANE MEDICAL CENTER,Roane,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Roane
+440032,HAWKINS COUNTY MEMORIAL HOSPITAL,Hawkins,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Hawkins
+440033,LAFOLLETTE MEDICAL CENTER,Campbell,Acute Care Hospitals,Voluntary Non-Profit - Church,Yes,Campbell
+440034,METHODIST MEDICAL CENTER OF OAK RIDGE,Anderson,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Anderson
+440035,TENNOVA HEALTHCARE-CLARKSVILLE,Montgomery,Acute Care Hospitals,Proprietary,Yes,Montgomery
+440039,VANDERBILT UNIVERSITY MEDICAL CENTER,Davidson,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Davidson
+440046,TRISTAR HORIZON MEDICAL CENTER,Dickson,Acute Care Hospitals,Proprietary,Yes,Dickson
+440048,BAPTIST MEMORIAL HOSPITAL,Shelby,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Shelby
+440049,METHODIST HOSPITALS OF MEMPHIS,Shelby,Acute Care Hospitals,Voluntary Non-Profit - Church,Yes,Shelby
+440050,GREENEVILLE COMMUNITY HOSPITAL,Greene,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Greene
+440053,SAINT THOMAS RUTHERFORD HOSPITAL,Rutherford,Acute Care Hospitals,Voluntary Non-Profit - Church,Yes,Rutherford
+440056,TENNOVA HEALTHCARE-JEFFERSON MEMORIAL HOSPITAL,Jefferson,Acute Care Hospitals,Proprietary,Yes,Jefferson
+440057,CLAIBORNE MEDICAL CENTER,Claiborne,Acute Care Hospitals,Government - Local,Yes,Claiborne
+440058,SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM WINCHEST,Franklin,Acute Care Hospitals,Proprietary,Yes,Franklin
+440059,COOKEVILLE REGIONAL MEDICAL CENTER,Putnam,Acute Care Hospitals,Government - Local,Yes,Putnam
+440060,WEST TENNESSEE HEALTHCARE MILAN HOSPITAL,Gibson,Acute Care Hospitals,Government - Local,Yes,Gibson
+440061,VOLUNTEER COMMUNITY HOSPITAL,Weakley,Acute Care Hospitals,Proprietary,Yes,Weakley
+440063,JOHNSON CITY MEDICAL CENTER,Washington,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Washington
+440065,TRISTAR NORTHCREST MEDICAL CENTER,Robertson,Acute Care Hospitals,Voluntary Non-Profit - Other,Yes,Robertson
+440068,STARR REGIONAL MEDICAL CENTER ATHENS,Mc Minn,Acute Care Hospitals,Proprietary,Yes,Mc Minn
+440072,DYERSBURG REGIONAL MEDICAL CENTER,Dyer,Acute Care Hospitals,Proprietary,Yes,Dyer
+440073,MAURY REGIONAL HOSPITAL,Maury,Acute Care Hospitals,Government - Local,Yes,Maury
+440081,LECONTE MEDICAL CENTER,Sevier,Acute Care Hospitals,Voluntary Non-Profit - Other,Yes,Sevier
+440082,ASCENSION SAINT THOMAS HOSPITAL,Davidson,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Davidson
+440084,SWEETWATER HOSPITAL ASSOCIATION,Monroe,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Monroe
+440091,"MEMORIAL HEALTHCARE SYSTEM, INC",Hamilton,Acute Care Hospitals,Voluntary Non-Profit - Church,No,Hamilton
+440102,LINCOLN MEDICAL CENTER,Lincoln,Acute Care Hospitals,Government - Local,Yes,Lincoln
+440104,ERLANGER MEDICAL CENTER,Hamilton,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Hamilton
+440109,HARDIN MEDICAL CENTER,Hardin,Acute Care Hospitals,Government - Local,Yes,Hardin
+440110,FORT LOUDOUN MEDICAL CENTER,Loudon,Acute Care Hospitals,Voluntary Non-Profit - Other,Yes,Loudon
+440111,METRO NASHVILLE GENERAL HOSPITAL,Davidson,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Davidson
+440120,PHYSICIANS REGIONAL MEDICAL CENTER,Knox,Acute Care Hospitals,Proprietary,Yes,Knox
+440125,FORT SANDERS REGIONAL MEDICAL CENTER,Knox,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Knox
+440130,BAPTIST MEMORIAL HOSPITAL UNION CITY,Obion,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Obion
+440131,BAPTIST MEMORIAL HOSPITAL TIPTON,Tipton,Acute Care Hospitals,Voluntary Non-Profit - Church,Yes,Tipton
+440132,WEST TENNESSEE HEALTHCARE HENRY COUNTY HOSPITAL,Henry,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Henry
+440137,VANDERBILT BEDFORD HOSPITAL,Bedford,Acute Care Hospitals,Proprietary,Yes,Bedford
+44013F,MEMPHIS VA MEDICAL CENTER,Shelby,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Shelby
+440144,VANDERBILT TULLAHOMA-HARTON HOSPITAL,Coffee,Acute Care Hospitals,Voluntary Non-Profit - Other,Yes,Coffee
+440148,DEKALB COMMUNITY HOSPITAL,De Kalb,Acute Care Hospitals,Voluntary Non-Profit - Church,Yes,De Kalb
+440150,TRISTAR SUMMIT MEDICAL CENTER,Davidson,Acute Care Hospitals,Proprietary,Yes,Davidson
+440151,SAINT THOMAS RIVER PARK HOSPITAL,Warren,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Warren
+440152,REGIONAL ONE HEALTH,Shelby,Acute Care Hospitals,Government - Hospital District Or Authority,Yes,Shelby
+440153,TENNOVA HEALTHCARE - NEWPORT MEDICAL CENTER,Cocke,Acute Care Hospitals,Proprietary,Yes,Cocke
+440156,PARKRIDGE MEDICAL CENTER,Hamilton,Acute Care Hospitals,Proprietary,Yes,Hamilton
+440159,DELTA SPECIALTY HOSPITAL,Shelby,Acute Care Hospitals,Proprietary,Yes,Shelby
+440161,TRISTAR CENTENNIAL MEDICAL CENTER,Davidson,Acute Care Hospitals,Proprietary,Yes,Davidson
+44016F,MOUNTAIN HOME VA MEDICAL CENTER,Washington,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Washington
+440173,PARKWEST MEDICAL CENTER,Knox,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Knox
+440175,SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM LAWRENCE,Lawrence,Acute Care Hospitals,Voluntary Non-Profit - Other,Yes,Lawrence
+440176,INDIAN PATH COMMUNITY HOSPITAL,Sullivan,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Sullivan
+44017F,VA MIDDLE TENNESSEE HEALTHCARE SYSTEM - MURFREESBORO,Rutherford,Acute Care - Veterans Administration,Veterans Health Administration,No,Rutherford
+440183,ST FRANCIS HOSPITAL,Shelby,Acute Care Hospitals,Proprietary,Yes,Shelby
+440184,FRANKLIN WOODS COMMUNITY HOSPITAL,Washington,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Washington
+440185,AFFILIATE OF VITRUVIAN HEALTH,Bradley,Acute Care Hospitals,Proprietary,Yes,Bradley
+440187,LIVINGSTON REGIONAL HOSPITAL,Overton,Acute Care Hospitals,Proprietary,Yes,Overton
+44018F,VA MIDDLE TENNESSEE HEALTHCARE SYSTEM,Davidson,Acute Care - Veterans Administration,Veterans Health Administration,Yes,Davidson
+440192,SAINT THOMAS HIGHLANDS HOSPITAL,White,Acute Care Hospitals,Proprietary,Yes,White
+440193,VANDERBILT WILSON COUNTY HOSPITAL,Wilson,Acute Care Hospitals,Voluntary Non-Profit - Private,Yes,Wilson
+440194,TRISTAR HENDERSONVILLE MEDICAL CENTER,Sumner,Acute Care Hospitals,Proprietary,Yes,Sumner
+440197,TRISTAR SOUTHERN HILLS MEDICAL CENTER,Davidson,Acute Care Hospitals,Proprietary,Yes,Davidson
+440200,STONES RIVER HOSPITAL,Cannon,Acute Care Hospitals,Proprietary,Yes,Cannon
+440217,BAPTIST MEMORIAL HOSPITAL-COLLIERVILLE,Shelby,Acute Care Hospitals,Voluntary Non-Profit - Other,Yes,Shelby
+440218,SAINT THOMAS HOSPITAL FOR SPINAL SURGERY,Davidson,Acute Care Hospitals,Voluntary Non-Profit - Other,No,Davidson
+440227,TRISTAR STONECREST MEDICAL CENTER,Rutherford,Acute Care Hospitals,Proprietary,Yes,Rutherford
+440228,SAINT FRANCIS BARTLETT MEDICAL CENTER,Shelby,Acute Care Hospitals,Proprietary,Yes,Shelby
+440231,TRUSTPOINT HOSPITAL,Rutherford,Acute Care Hospitals,Proprietary,No,Rutherford
+440238,HAYWOOD COUNTY COMMUNITY HOSPITAL,Haywood,Acute Care Hospitals,Proprietary,Yes,Haywood
+440779,TRISTAR ASHLAND CITY MEDICAL CENTER,Cheatham,Rural Emergency Hospital,Proprietary,Yes,Cheatham
+440780,WAYNE MEDICAL CENTER,Wayne,Rural Emergency Hospital,Voluntary Non-Profit - Other,Yes,Wayne
+441300,SAINT THOMAS HICKMAN HOSPITAL,Hickman,Critical Access Hospitals,Voluntary Non-Profit - Private,No,Hickman
+441301,HIGHPOINT HEALTH-TROUSDALE WITH ASCENSION SAINT,Trousdale,Critical Access Hospitals,Voluntary Non-Profit - Other,Yes,Trousdale
+441303,ASCENSION SAINT THOMAS THREE RIVERS,Humphreys,Critical Access Hospitals,Voluntary Non-Profit - Private,Yes,Humphreys
+441304,JOHNSON COUNTY COMMUNITY HOSPITAL,Johnson,Critical Access Hospitals,Voluntary Non-Profit - Private,Yes,Johnson
+441305,MACON COMMUNITY HOSPITAL,Macon,Critical Access Hospitals,Voluntary Non-Profit - Private,Yes,Macon
+441306,ERLANGER BLEDSOE HOSPITAL,Bledsoe,Critical Access Hospitals,Government - Hospital District Or Authority,Yes,Bledsoe
+441307,HIGHPOINT HEALTH-RIVERVIEW WITH ASCENSION SAINT TH,Smith,Critical Access Hospitals,Proprietary,Yes,Smith
+441309,MARSHALL MEDICAL CENTER,Marshall,Critical Access Hospitals,Government - Hospital District Or Authority,Yes,Marshall
+441310,RHEA MEDICAL CENTER,Rhea,Critical Access Hospitals,Government - Local,Yes,Rhea
+441313,HANCOCK COUNTY HOSPITAL,Hancock,Critical Access Hospitals,Voluntary Non-Profit - Other,Yes,Hancock
+441314,LAUDERDALE COMMUNITY HOSPITAL,Lauderdale,Critical Access Hospitals,Proprietary,Yes,Lauderdale
+441316,WEST TENNESSEE HEALTHCARE CAMDEN HOSPITAL,Benton,Critical Access Hospitals,Government - Hospital District Or Authority,Yes,Benton
+441320,WEST TENNESSEE HEALTHCARE BOLIVAR HOSPITAL,Hardeman,Critical Access Hospitals,Government - Hospital District Or Authority,Yes,Hardeman
+441322,HOUSTON COUNTY COMMUNITY HOSPITAL,Houston,Critical Access Hospitals,Government - Local,Yes,Houston
+441323,BIG SOUTH FORK MEDICAL CENTER,Scott,Critical Access Hospitals,Proprietary,Yes,Scott
+443302,ST JUDE CHILDRENS RESEARCH HOSPITAL,Shelby,Childrens,Voluntary Non-Profit - Private,No,Shelby
+443303,EAST TENNESSEE CHILDRENS HOSPITAL,Knox,Childrens,Voluntary Non-Profit - Private,Yes,Knox
+444001,MEMPHIS MENTAL HEALTH INSTITUTE,Shelby,Psychiatric,Government - Local,Yes,Shelby
+444002,MOCCASIN BEND MENTAL HEALTH INSTITUTE,Hamilton,Psychiatric,Government - State,No,Hamilton
+444003,RIDGEVIEW PSYCHIATRIC HOSPITAL AND CENTER,Anderson,Psychiatric,Voluntary Non-Profit - Private,No,Anderson
+444004,LAKESIDE BEHAVIORAL HEALTH SYSTEM,Shelby,Psychiatric,Voluntary Non-Profit - Church,No,Shelby
+444005,UNITY PSYCHIATRIC CARE-MARTIN,Weakley,Psychiatric,Proprietary,No,Weakley
+444007,ROLLING HILLS PSYCHIATRIC HOSPITAL,Williamson,Psychiatric,Voluntary Non-Profit - Private,Yes,Williamson
+444008,WESTERN MENTAL HEALTH INSTITUTE,Hardeman,Psychiatric,Government - Local,No,Hardeman
+444010,"PATHWAYS OF TENNESSEE, INC",Madison,Psychiatric,Voluntary Non-Profit - Private,No,Madison
+444014,MIDDLE TN MENTAL HEALTH INSTITUTE,Davidson,Psychiatric,Government - State,No,Davidson
+444019,UNITY PSYCHIATRIC CARE-CLARKSVILLE,Montgomery,Psychiatric,Proprietary,No,Montgomery
+444021,UNITY PSYCHIATRIC CARE-COLUMBIA,Maury,Psychiatric,Proprietary,Yes,Maury
+444023,PERIMETER BEHAVIORAL CENTER OF JACKSON,Madison,Psychiatric,Proprietary,No,Madison
+444024,UNITY PSYCHIATRIC CARE-MEMPHIS,Shelby,Psychiatric,Proprietary,No,Shelby
+444025,CRESTWYN BEHAVIORAL HEALTH,Shelby,Psychiatric,Proprietary,Yes,Shelby
+444026,"ERLANGER BEHAVIORAL HOSPITAL, LLC",Hamilton,Psychiatric,Proprietary,No,Hamilton
+444027,CREEKSIDE BEHAVIORAL HEALTH,Sullivan,Psychiatric,Proprietary,No,Sullivan
+444029,PINEWOOD SPRINGS,Maury,Psychiatric,Proprietary,No,Maury
+444030,ASCENSION SAINT THOMAS BEHAVIORAL HEALTH HOSPITAL,Davidson,Psychiatric,Proprietary,No,Davidson
+444031,KNOXVILLE CENTER FOR BEHAVIORAL MEDICINE,Knox,Psychiatric,Voluntary Non-Profit - Other,No,Knox
+444032,EAST TENNESSEE BEHAVIORAL HEALTH,Knox,Psychiatric,Proprietary,No,Knox
+444033,COMPASS INTERVENTION CENTER,Shelby,Psychiatric,Proprietary,No,Shelby
